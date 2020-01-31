@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="blue">#34439B</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="redHover">#f74747</color>
+    <color name="green">#002d39</color>
+    <color name="transparent50black">#CC000000</color>
+    <color name="transparent10black">#1A000000</color>
+    <color name="transparent50White">#88AAAAAA</color>
+    <color name="fullTransparent">#00000000</color>
+    <color name="btn_back_light">#959699</color>
+    <color name="btn_back_dark">#6F7073</color>
+    <color name="grey_light">#D3D3D3</color>
+    <color name="list_background_color">#F5F2F4</color>
+    <color name="rating_text">#ED8A19</color>
+    <color name="white">#FFFFFF</color>
+</resources>
